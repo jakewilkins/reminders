@@ -19,7 +19,7 @@
     "probot-scheduler": "^1.1.0"
   },
   "devDependencies": {
-    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-import": "^2.20.2",
     "jest": "^22.0.6",
     "smee-client": "^1.0.1",
     "standard": "^11.0.1"
